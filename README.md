@@ -1,4 +1,5 @@
 ------------- DAZN MINI_CS ----------------
+
 Upload zip to /home and extract it
 after that run this command
 
